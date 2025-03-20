@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Feed Back System**
 
-- 🌱 I’m currently learning **Python HTML CSS JavaScript**
+- 🌱 I’m currently learning **Java Full Stack - Spring Boot**
 
 - 💬 Ask me about **Java C**
 
